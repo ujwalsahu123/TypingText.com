@@ -13,5 +13,6 @@ work on idea and solution . <br>
 make entp . <br>
 <hr>
 idea is not enough , i have to make a mvp and it should show that the idea really works and its great . and i think making the initial stage(Minimum mvp) of the platform by myself will be good and also chencking if it works , and then making a good team or getting investment. and along side i should also put time in the idea and the vision and the solution . and in the free time do entrepreneurship like ( pitch deck , business plan , growth , etc things that is required for investment and startup purpose )
+(facebook was also like this)
 
 
