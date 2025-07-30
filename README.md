@@ -19,3 +19,7 @@ idea is not enough , i have to make a mvp and it should show that the idea reall
 RUN . Make it man , start building . not just idea idea . do Big no bachkana may play . take big-big steps . 
 RUN.
 <hr>
+
+
+note for me : 
+for more info - checkout the chatgpt (typing chat)
